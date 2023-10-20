@@ -1,0 +1,1001 @@
+[jimmy@localhost /]$ cat ~/.bash_history 
+cd .elinks/
+ls
+cat bookmarks 
+cat cookies 
+cat globhist 
+ls
+cat gotohist 
+ls
+cd ..
+ls
+ls -a
+cd .gnupg/
+ls
+cat gpg.conf 
+ls -a
+cat pubring.gpg 
+cat secring.gpg 
+cat trustdb.gpg 
+ls
+cd ..
+ls
+ls -a
+cd .pki/
+ls
+cd nssdb/
+ls
+ls -a
+cd ..
+cd .vim
+ls
+ls -a
+cat .netrwhist 
+cd ..
+cd .elinks/
+ls
+cat bookmarks 
+cat cookies 
+cat globhist 
+ssh Wjat@192.168.112.134
+cd ..
+ls
+cat .ssh/known_hosts 
+ssh Wjat@192.168.122.134
+ssh test@192.168.122.134
+ssh admin@192.168.122.134
+ssh 192.168.122.134
+ssh 192.168.122.1
+logout
+arp
+ls
+ls -a
+cat .bash_hi
+cat .bash_history 
+ls
+ls -a
+cat .bash_logout 
+cat .bash_profile 
+cat .bashrc 
+ls -a .pki
+cat .pki/nssdb/
+ls -a .pki/nssdb/
+ls -a .elinks/
+cat .elinks/bookmarks 
+cat .elinks/cookies 
+cat .elinks/gotohist 
+ping 192.168.122.134
+ls
+ls -a
+ls -a .gnupg/
+cat .gnupg/gpg.conf 
+cat .gnupg/pubring.gpg 
+cat .gnupg/secring.gpg 
+cat .gnupg/trustdb.gpg 
+ls -a
+cd .ssh/
+ls -a
+cat .rp.swp 
+vim .rp.swp 
+ls -a
+cd ..
+ls
+ls -a
+cat .bash_hi
+cat .bash_history 
+ls
+cd .ssh/
+ls
+ls -a
+rm .rp.swp 
+ls -a
+cat authorized_keys 
+cat known_hosts 
+cd ..
+ls -a
+cd ..
+ls -a
+cd centos/
+cd ..
+ls -a
+cd log
+ls -a
+cat old_traffic.pcapng 
+cd ..
+ls -a
+cd usr/
+ls -a
+cd games/
+;ls -a
+ls -a
+cd ..
+ls -a
+ls -la
+cd etc/
+ls -la
+cat passwd
+cat passwd-
+cd ..
+ls -a
+cd bin/
+ls -la
+cd ..
+cd home/
+cd jimmy/
+ls
+ls -a
+ifconfig
+tracert 192.168.112.136
+ipconfig/all
+ipconfig /all
+ipconfig -all
+tracepath 192.168.112.136
+netstat
+whois 192.168.132.112
+ls
+cat Accept\: 
+logout
+arp -a
+ls -a
+cat .viminfo 
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd trash/
+ls -a
+cat .3691_2023_08_25.invoice 
+cat .3789_2023_09_07.invoice 
+cat .3712_2023_04_13.invoice 
+cat .3691_2023_08_25.invoice 
+cat .3789_2023_09_07.invoice 
+cat .3854_2023_09_30.invoice 
+cat i217642.jpeg 
+ls -a
+cat .3789_2023_09_07.invoice 
+ls -a
+cd ..
+ls
+logout
+cd ..
+ls
+cd jimmy/
+ls -a
+cat .viminfo 
+cd ..
+cd tmp/
+ls -a
+cd systemd-private-c1c82445749449a1951bf67ca5d76aae-chronyd.service-LEq5J7/
+cd ..
+ls -a
+cd log
+ls -a
+cd ..
+cd var
+ls -a
+cd tmp/
+ls -a
+cd yum-jimmy-SlXy0N/
+ls -a
+cd x86_64/
+ls -a
+cd 7/
+ls -a
+ls -la basew
+ls -la base
+ls -la extras/
+ls -la updates/
+cd base/
+ls -a
+cat cachecookie 
+cat mirrorlist.txt 
+cat repomd.xml 
+ls -a
+cd gen/
+ls -a
+cd ..
+ls -a packages/
+cd ..
+ls -la
+cd extras/
+ls -a
+cat cachecookie 
+cat mirrorlist.txt 
+cat repomd.xml 
+cd ..
+ls -a
+cd updates/
+cat cachecookie 
+cat mirrorlist.txt 
+cd //
+ls
+cd trash/
+ls -a
+cat .3712_2023_04_13.invoice 
+cat .3691_2023_08_25.invoice 
+cat .3789_2023_09_07.invoice 
+cat .3854_2023_09_30.invoice 
+cd ..
+cd tmp/
+ls -a
+cd .Test-unix/
+ls -a
+cd ..
+ls -a .XIM-unix/
+ls -a .X11-unix/
+ls -a .ICE-unix/
+ls -a .font-unix/
+ls -a systemd-private-c1c82445749449a1951bf67ca5d76aae-chronyd.service-LEq5J7/
+cd ..
+ls -a
+cd usr/
+ls -a
+cd src
+ls -a
+cd ..
+ls -a local/
+ls -a share/
+cd ..
+ls -a
+ls -a log
+cd home/
+ls -a
+cd centos/
+cd jimmy/
+ls -a
+ls -a .vim
+cat .vim/.netrwhist 
+ls -a .elinks/
+cat .vim
+cat .viminfo 
+cd ..
+cd tmp/
+ls -a
+cd .font-unix/
+ls -a
+cd .
+ls -la
+cd ..
+cd mnt/
+ls -a
+cd ..
+ls -a media/
+ls -la opt/
+ls -la proc/
+cd proc/
+ls -a
+cat keys 
+cat key-users 
+cd 1
+ls -a
+cd ..
+ls -a
+cd home/jimmy/.ssh/
+ls
+ls -a
+ls -la
+cd ..
+ls -la
+ls -la .pki/
+cat .pki/nssdb/
+ls -la .pki/nssdb/
+cat -la .elinks/
+ls -la .elinks/
+cat .elinks/gotohist 
+ls -a
+apr -a
+arp -a
+ifconfig
+arp -a
+arp -a | grep "xhaasp"
+arp -a | grep "?"
+arp -a | grep "x"
+arp -a | grep "x" | sort -n -k2
+arp -a | :%grep --help "x" | sort -n -k2
+arp -a | grep "x" | sort -k2
+arp -a | grep "x" | sort -n -k2
+arp -a | grep "x" | sort -n -k2,4
+arp -a | grep "x" | sort -k2,4
+awk -F '$2'
+arp -a |awk -F '$2'
+awk -F '$2' arp -a
+arp -a | grep "x" 
+arp -a | grep "192.168.122." 
+arp -a | grep "x"
+arp -a | grep "x" | sort k1
+arp -a | grep "x" | sort -k1
+arp -a | grep "x" | sort -k2
+arp -a | grep "x" | sort -k2 -k4
+arp -a | grep "x" | sort -n -k2
+sort -help
+sort --help
+arp -a | grep "x" | sort -n -k2 -t '.'
+arp -a | grep "^x" | sort -n -k2
+arp -a | grep "x" | sort -k2
+arp -a | grep "(*)" | sort -k2
+arp -a | grep (*) | sort -k2
+arp -a | grep -o "(*)" | sort -k2
+arp -a | grep -o "^(*)$" | sort -k2
+arp -a | grep -Eo "^(*)$" | sort -k2
+arp -a | grep -o "^(" | sort -k2
+arp -a | grep -o "(" | sort -k2
+arp -a | grep -o "()" | sort -k2
+arp -a | grep -o "[0-9]" | sort -k2
+arp -a | grep -o "[0-9]"
+arp -a | grep -o "(*)"
+arp -a | grep -Eo '[0-9]'
+arp -a | grep -Eo '[0-9]{1.15}'
+arp -a | grep -Eo '[0-9]{1,15}'
+arp -a | grep -Eo '(*){1,15}'
+arp -a | grep -Eo '\(*\){1,15}'
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}'
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort -n -k4
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort -k4
+sort --help
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | 
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort -t . -k4
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort -t '.' -k4
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort -t '.' -k3
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | sort
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}'
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | grep .
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | grep $4
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}' | grep '([^.]*,){3}[0-9]{4}
+arp -a | grep -Eo '192.168.122.[0-9]{1,15}'
+arp -a
+ls -a
+cd .ssh/
+ls -a
+cat authorized_keys 
+cat known_hosts 
+find --help
+cd ..
+cat .viminfo 
+find /tmp2
+cd ..
+find tmp
+find tmp2
+find *.jpeg
+ls -a
+find / -name *.jpeg
+find / -name f55a71be5a9d8a9c69190b7f64033853/tmp
+find / -name id_ecdsa
+cd ..
+ls
+cd home/jimmy
+cat .vim/.netrwhist 
+cat .viminfo 
+find / -name *.invoice
+apr -a
+arp
+ssh 192.168.122.249
+ssh 192.168.122.164
+ssh 192.168.122.57
+ssh 192.168.122.38
+ssh 192.168.122.216
+ls
+ls -la
+cat .elinks/globhist 
+ssh Wjat@192.168.122.134
+cat .elinks/gotohist 
+explorer
+google
+chrome
+cat .elinks/cookies 
+cat .elinks/bookmarks 
+wget -o / 192.168.122.134/admin/login.php?user=Wjat&password=admin 
+ls
+ls -la
+curl --help
+wget 192.168.122.134/admin/login.php?user=Wjat&password=admin 
+curl 192.168.122.134/admin/login.php?user=Wjat&password=admin 
+cat .elinks/globhist 
+cat -la
+ls -la
+curl http://192.168.122.134/admin/index.html
+curl http://192.168.122.134/admin/login.php?login=Wjat&password=admin
+curl http://192.168.122.134/upload/index.php
+ls -la
+curl http://192.168.122.134/user.php?id=0
+curl http://192.168.122.134/user.php?id=1
+curl http://192.168.122.134/user.php?id=2
+curl http://192.168.122.134/user.php?id=3
+curl http://192.168.122.134/user.php?id=4
+curl http://192.168.122.134/user.php?id=5
+curl http://192.168.122.134/user.php?id=6
+curl http://192.168.122.134/user.php?id=7
+curl http://192.168.122.134/user.php?id=8
+curl http://192.168.122.134/
+curl http://192.168.122.134/admin/index/html
+cat .elinks/gotohist 
+curl 192.168.122.134/user.php?id=7'
+
+curl 192.168.122.134/user.php?id=7
+curl 192.168.122.134/admin/index.html
+curl 192.168.122.134/admin/login.php?user=Wjat&password=admin
+curl 192.168.122.134/admin/login.php?user=Wjat&passwd=Wjat
+ls -la
+curl 192.168.122.134/admin/login.php?user=Wjat&passwd=password
+curl 192.168.122.134/admin/login.php?user=admin&passwd=admin
+curl 192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl 192.168.122.134/admin/index.html
+curl 192.168.122.134/admin/login.php?login=Wjat&passwd=admin
+cat .elinks/globhist 
+cat .elinks/bookmarks 
+curl http://192.168.122.134/upload/index.php
+curl http://192.168.122.134/upload/upload_file.php
+curl http://192.168.122.134/
+curl http://192.168.122.134/user.php?id=0
+curl http://192.168.122.134/user.php?id=1
+curl http://192.168.122.134/user.php?id=2
+curl http://192.168.122.134/user.php?id=3
+curl http://192.168.122.134/user.php?id=7
+curl http://192.168.122.134/user.php?id=15
+curl http://192.168.122.134/user.php?id=99
+curl http://192.168.122.134/admin/index.html
+curl 192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl 192.168.122.134/admin/
+curl 192.168.122.134/admin/index.php
+curl 192.168.122.21
+curl 192.168.122.43
+curl 192.168.122.84
+curl 192.168.122.27
+curl 92.168.122.131
+curl 192.168.122.131
+curl 192.168.122.134
+curl 192.168.122.134/#
+curl 192.168.122.134/upload
+curl 192.168.122.134/upload/
+cat .viminfo 
+curl 192.168.122.134/upload/i217642.jpeg
+curl 192.168.122.134/upload/#
+curl 192.168.122.134/admin/login.php
+wget http://192.168.122.134/admin/index.html
+curl http://192.168.122.134/admin/index.html
+curl http://192.168.122.134/admin/login.php
+curl http://192.168.122.134/admin/login.php?login=Wjat&password=Wjat
+curl http://192.168.122.134/admin/login.php?login=Wjat&password=admin
+curl -o a.txt http://192.168.122.134/admin/login.php?login=Wjat&password=admin
+ls -la
+cat a
+cd .elinks/
+ls -la
+cat bookmarks 
+cat cookies 
+cat globhist 
+curl http://192.168.122.134/user.php?id=7"
+
+curl http://192.168.122.134/user.php?id=7
+curl https://www.google.com/imghp?hl=cs&tab=wi
+curl http://192.168.122.134/user.php?id=--
+curl http://192.168.122.134/user.php?id=0
+http://192.168.122.134/upload/index.php
+curl http://192.168.122.134/upload/index.php
+ls -la
+cat gotohist 
+curl 192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl 192.168.122.134/admin/index.html
+curl 192.168.122.134/admin/admin.html
+curl 192.168.122.134/admin
+curl 192.168.122.134/admin/
+
+ls -la
+curl -c cookies.txt http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+ls -la
+cat cookies
+curl -b cookies http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+curl -b cookies http://192.168.122.134/admin/
+curl -b cookies http://192.168.122.134/admin/index.php
+curl -b cookies http://192.168.122.134/admin/index.html
+curl -b cookies http://192.168.122.134/admin/index.html?mode=Login
+curl -b crl -d 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?mode=Login
+curl -d 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?mode=Login
+curl -d 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?login.php
+curl -L -d 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?login.php
+curl -s -L -d 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?login.php
+curl 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?login.php
+curl 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.htm
+curl 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.htmt?Login.php
+curl 'login=Wjat&passwd=Wjat' http://192.168.122.134/admin/index.html?Login.php
+curl --help
+curl -L 192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -L https://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -L http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+cat cookies 
+curl -L -b cookies http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+curl -L -b cookies http://192.168.122.134/admin
+curl -L -b cookies http://192.168.122.134/admin/login.php
+curl -b cookies http://192.168.122.134/admin/login.php
+ls -la
+cat cookies 
+cat bookmarks 
+cat globhist 
+curl -b cookies http://192.168.122.134/admin/login.ph
+curl -b cookies http://192.168.122.134/admin/index.html?login.php
+curl --cookie-jar test http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+ls -a
+ > testa.txt
+ls -la
+curl --cookie-jar testa.txt http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+cat testa.txt 
+curl --cookie-jar testa.txt http://192.168.122.134/admin/login.php?login=Wjat&password=admin
+ls -la
+curl --cookie-jar testa.txt http://192.168.122.134/admin/login.php
+curl http://192.168.122.134/admin/login.php
+curl http://192.168.122.134/admin/index.php
+curl http://192.168.122.134/admin/index.html
+curl --cookie-jar testa.txt http://192.168.122.134/admin/index.html/login.php?login=Wjat&passwd=admin
+curl --cookie-jar testa.txt http://192.168.122.134/admin/index.html?login.php?login=Wjat&passwd=admin
+ls -la
+curl --cookie-jar testa.txt http://192.168.122.134/admin/login.php?login=Wjat&passwd=admin
+ls -la
+curl --cookie-jar testa.txt http://192.168.122.134/admin/index.html?login=Wjat&passwd=admin
+ls -la
+curl --cookie-jar testa.txt -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/index.html?login.php
+ls -la
+curl --cookie-jar testa.txt -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/index.html
+curl --cookie-jar testa.txt -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/index.html
+curl --cookie-jar testa.txt -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/login.php
+ls -la
+curl --cookie-jar testa.txt -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/login.php
+curl --help
+curl --cookie-jar testa.txt -L -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/login.php
+curl -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/login.php
+curl -X POST -F 'login=Wjat' -F 'passwd=Wjat' http://192.168.122.134/admin/index.html?login.php
+curl http://192.168.122.134/admin/login.php
+curl http://192.168.122.134/admin/login.html
+ls -la
+rm testa.txt 
+ls -la
+curl http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -I http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -I http://192.168.122.134/admin
+curl -I http://192.168.122.134/admin/index.php
+curl -I http://192.168.122.134/admin/index.html
+curl -I http://192.168.122.134/
+curl http://192.168.122.134/
+curl http://192.168.122.134/admin/index.html
+curl --user "login:password" http://192.168.122.134/admin/index.html
+curl -I --user "login:password" http://192.168.122.134/admin/index.html
+curl -L --user "login:password" http://192.168.122.134/admin/index.html
+curl http://192.168.122.134/admin/index.html
+curl -L http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -L http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl -I http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl --cookie-jar atest.txt --form passwd=Wjet --form login=Wjet http://192.168.122.134/admin/login.php
+ls -la
+curl --cookie-jar atest.txt --form passwd=wjet --form login=Wjet http://192.168.122.134/admin/login.php
+ls -la
+curl --cookie-jar atest.txt --form passwd=wjet --form login=Wjet http://192.168.122.134/admin/Login.php
+curl --cookie-jar atest.txt --form passwd=wjet --form login=Wjet http://192.168.122.134/admin/login.php
+curl --cookie-jar atest.txt --form passwd=wjet --form login=admin http://192.168.122.134/admin/login.php
+ls -la
+curl --cookie-jar atest.txt --form passwd=wjet --form login=Wjet http://192.168.122.134/admin/login.php
+curl --cookie-jar atest.txt --form passwd=Wjet --form login=Wjet http://192.168.122.134/admin/login.php
+curl --cookie-jar atest.txt --form passwd=admin --form login=Wjet http://192.168.122.134/admin/login.php
+curl -s -L --cookie-jar cookies.txt -d 'usr=admin&pwd=12345' http://192.168.122.134/admin/login.php
+curl -s -L --cookie-jar cookies.txt -d 'login=Wjat&passwd=wjat' http://192.168.122.134/admin/login.php
+ls -la
+curl -s -L --cookie-jar a.txt -d 'login=Wjat&passwd=wjat' http://192.168.122.134/admin/login.php
+ls -la
+cat cookies 
+curl -L -d 'login=Wjat&passwd=wjat' http://192.168.122.134/admin/index.html?login.php
+curl -I -d 'login=Wjat&passwd=wjat' http://192.168.122.134/admin/login.php
+curl -I http://192.168.122.134/admin/login.ph
+curl http://192.168.122.134/admin/login.php
+curl 192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl -L http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+curl --cookie-jar a.txt http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+ls -la
+curl --cookie-jar a.txt http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat > a.txt
+ls -la
+cat a
+cat a.txt 
+rm a.txt 
+ls -la
+curl 192.168.122.134/admin/index.html
+curl -o x.txt http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+ls -la
+curl -s -o x.txt http://192.168.122.134/admin/login.php?user=Wjat&passwd=wjat
+ls -la
+curl -L http://192.168.122.134/admin/login.php?login=Wjat&passwd=wjat
+curl http://192.168.122.134/admin/login.php --user "Wjat:wjat"
+curl -I http://192.168.122.134/admin/login.php --user "Wjat:wjat"
+curl -L http://192.168.122.134/admin/login.php --user "Wjat:wjat"
+curl -L http://192.168.122.134/admin/login.php
+curl -L http://192.168.122.134/admin/index.html
+curl -d "username=admin&password=admin&submit=Login" --dump-header headers http://192.168.122.134/admin/login.php
+ls -la
+cat headers 
+rm headers 
+curl -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl -d "login=Wjat&passwd=wjat&submit=Login" -c a.txt http://192.168.122.134/admin/login.php
+ls -la
+curl -d "login=Wjat&passwd=wjat&submit=Login" -c a.txt http://192.168.122.134/admin/index.php?login.php
+curl -d "login=Wjat&passwd=wjat&submit=Login" -c a.txt http://192.168.122.134/admin/index.html?login.php
+curl -d "login=Wjat&passwd=wjat&submit=Login" -c a.txt http://192.168.122.134/admin/login.php
+ls -la
+curl -I -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl -d "login=Wjat&passwd=wjat&submit=Login" --dump-header http://192.168.122.134/admin/login.php
+curl -L -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl --dump-header -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl --dump-header - -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+curl --dump-header - -d "login=Wjat&passwd=admin&submit=Login" http://192.168.122.134/admin/login.php
+curl --dump-header - -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/login.php
+curl --dump-header - -d "login=Wjat&passwd=wjat&submit=Login" http://192.168.122.134/admin/login.php
+linkchecker
+links
+links 192.168.122.134
+links 192.168.122.134/admin/index.html
+links 192.168.122.134/admin/upload
+curl 192.168.122.134/admin/upload
+ls -la
+cat -d 
+rm -d 
+cat -d
+cat '-d'
+cat "-d"
+cat -- -d
+rm -- -d
+ls -la
+cat bookmarks 
+curl 192.168.122.134/upload/index.php
+curl 192.168.122.134/upload/upload_file.php
+curl 192.168.122.134/upload/upload_file.html
+ls -la
+cd ..
+ls
+ls -a
+ls -la
+cat .bash_history 
+ping 192.168.122.21
+ping 192.168.122.43
+ping 192.168.122.134
+ssh Wjat@192.168.122.134
+cd .ssh/
+ssh Wjat@192.168.122.134
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr/
+ls -la
+ls -la bin/
+cd bin/.slogin
+cd bin/
+cd slogin
+ls -la
+cd slogin 
+cat slogin 
+find / .ssh
+cd //
+find / -name .ssh
+ls -la
+cd srv/
+ls -la
+cd ..
+ls -la
+ls -la sys
+ls -la tmp/
+ls -la log
+ls -la home/
+ls -la etc
+cd etc/ssh/
+ls -la
+cat ssh_config 
+cat sshd_config
+ls -la
+cat ssh_host_ecdsa_key
+cat ssh_host_ecdsa_key.pub 
+cd ..
+ls -la
+cd ..
+ls -la
+cd sbin/
+ls -la
+cd ..
+ls -la
+cd bin/
+ls -la
+cd ..
+find ./ -name donut
+find -h
+find --help
+find ./ -name kim
+find ./ -name Kim
+cd trash/
+cat .3691_2023_08_25.invoice 
+cat .3712_2023_04_13.invoice 
+cat .3854
+cat .3854_2023_09_30.invoice 
+cd ..
+find ./ -name Yummy
+find ./ -name Donuts
+find ./ -name Megahard
+find ./ -name torus
+find ./ -name yum
+ls -la
+cd ..
+logout
+feg
+feh
+cd ..
+cd trash/
+ls -la
+cat i217642.jpeg | grep "Ta"
+cat i217642.jpeg | grep "T"
+ls --help
+ls -lal
+logout
+ls
+ls -la
+cat .gnupg/secring.gpg 
+cat .gnupg/pubring.gpg 
+cat .gnupg/gpg.conf 
+ls -la
+cd .gnupg/
+ls -la
+cat pubring.gpg 
+cat trustdb.gpg 
+gpgconf 
+gpgconf trustdb.gpg 
+gpg.conf 
+gpg --help
+gpg -d trustdb.gpg 
+ls -la
+cd ..
+ls -la
+cd .pki/
+ls -la
+cd nssdb/
+ls -la
+cd ..
+cd .ssh/
+ls -la
+cat known_hosts 
+cat authorized_keys 
+ls -la
+cd ..
+ls -la
+cd .vim
+ls -la
+cat .netrwhist 
+cd //
+cd ..
+cd home/jimmy/
+cat .viminfo 
+ls
+cd ..
+ls
+cd ..
+ls
+cd log
+ls
+cat old_traffic.pcapng 
+ls -la
+logout
+cd ..
+ls
+cd ..
+ls -la
+cat logs 
+log
+logout
+ls
+ls -a
+cat GET
+cat Host\: 
+ls
+ldd --version
+cd /tmp
+ls
+ls -a
+cd ~
+ls
+ls -a
+cd .ssh
+ls
+cat authorized_keys 
+cd ..
+cd .ssh
+ls
+cat authorized_keys 
+cat known_hosts 
+cd ..
+ls
+cd ..
+ls
+cd /var/
+ls
+cd ..
+ls
+find --name="*secret*"
+find --name "*secret*"
+find -name "*secret*"
+clear
+ls
+cd ~
+ls
+cat /etc/passwd
+cd ..
+ls
+ls -l
+cd /
+ls
+ls -l
+ls
+ls -la
+cd .ssh/
+ls -la
+cat known_hosts 
+ssh Wjat@192.168.122.1
+ssh Wjat@192.168.122.134
+ssh Wjat@192.168.122.216
+arp -a
+arp | grep "?"
+arp | grep ?
+arp
+arp | grep "1"
+arp -a
+arp -a | grep "?"
+cat known_hosts 
+cat authorized_keys 
+ssh Wjat@192.138.122.249
+ssh Wjat@192.168.122.249
+ssh Wjat@192.168.122.164
+ssh Wjat@192.168.122.57
+ssh Wjat@192.168.122.38
+ssh Wjat@192.168.122.216
+ssh Wjat@192.168.122.1
+ssh Wjat@192.168.122.134
+ssh Wjat@192.168.122.131
+ssh Wjat@192.168.122.27
+ssh Wjat@192.168.122.84
+ssh Wjat@192.168.122.43
+ssh Wjat@192.168.122.21
+ssh 192.168.122.216
+ls -la
+logout
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+arp -a
+ssh xhaasp00@192.168.122.101
+cd home/jimmy/
+;s
+ls
+cd .ssh/
+ls
+cat known_hosts 
+logout
+;s
+ls
+ls -la
+cd .elinks/
+ls
+ls -la
+cat cookies 
+cat globhist 
+cat bookmarks 
+cd ..
+ls -la
+cd .ssh/
+ls -la
+cd ..
+cat .viminfo 
+ls
+cat Accept\: 
+ls -la
+ls
+arp -a
+arp-scan
+arp --help
+arp -a -e
+nmap
+nmap -sn 192.168.122.0/24
+netstat
+whois 192.168.122.133
+Whois
+whois
+hostname
+hostname 192.168.122.134
+cd ..
+cd jimmy/
+ls -la
+logout
+ls
+cd /
+htop
+top
+cd /
+ls -l
+cat logs 
+cat log
+cd log
+ls
+cat old_traffic.pcapng 
+ls
+pwd
+arp-scan
+history
+cd /log
+ls
+cd ..
+ls -l
+cd trash/
+ls
+cd ..
+ls
+cat i217642.jpeg | grep "Ta"
+hexedit i217642.jpeg
+sh
+history
+ll
+cat Accept\: 
+cd Accept\: 
+ll
+ls
+cat *
+ll -a
+cat .vim
+cat .vim/.netrwhist 
+cat .viminfo 
+cd /trash/
+ll
+ll -a
+cat .3691_2023_08_25.invoice 
+cat .3712_2023_04_13.invoice 
+cat .3789_2023_09_07.invoice 
+cat .3854_2023_09_30.invoice 
+pwd
+exit
+pwd
+ll
+ll -a
+cd .elinks/
+ll
+cat cookies 
+cat bookmarks 
+curl http://192.168.122.134/upload/index.php
+cd globhist 
+ll
+cat globhist 
+curl http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+curl "http://192.168.122.134/admin/login.php?user=Wjat&password=admin"
+curl "http://192.168.122.134/admin/login.php?user=admin&password=Wjat"
+curl http://192.168.122.134/admin/login.php?user=admin&password=Wjat
+wget http://192.168.122.134/admin/login.php?user=Wjat&password=admin
+curl
+curl --help
+cd /tmp/
+ll
+ll -A
+ll -a
+cat *
+cat *.
+cat .
+cat systemd-private-c1c82445749449a1951bf67ca5d76aae-chronyd.service-LEq5J7/
+cd /trash/
+ll
+cat i217642.jpeg 
+62;1;4c62;1;4c 
+ll -a
+cat .3789_2023_09_07.invoice 
+pwd
+whoami 
+cat /etc/passwd
+c /
+cd /
+ll
+cd run/
+ll
+exit

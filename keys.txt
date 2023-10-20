@@ -1,0 +1,10 @@
+1 - na jimmy
+
+[jimmy@localhost trash]$ cat .3789_2023_09_07.invoice 
+Tajemstvi_A_afb0a025e207a22e8b8955b523166456a0b9f2801f41ffab50120a913e7c8c7d
+[jimmy@localhost trash]$ pwd
+/trash
+
+
+
+2 -

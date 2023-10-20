@@ -1,0 +1,9 @@
+telnet - z adresy
+122.216 je localhost login na 192.168.122.1
+user = bob
+password = SuperMegaHeslo123NikdoHoNezjisti
+
+
+
+curl -F "@image.jpeg;type=image/jpeg" http://192.168.122.134/upload/upload_file.php
+
