@@ -7,4 +7,22 @@ Tajemstvi_A_afb0a025e207a22e8b8955b523166456a0b9f2801f41ffab50120a913e7c8c7d
 
 
 
-2 -
+2 - na 134
+
+v .elinks/globhist je 
+
+Tajemstvi_G_97873f5ef76c6514cf7c81f71c1ee4f53e2efb5bbeb5e85d9d32909b6ae82a03
+
+[jimmy@localhost ~]$ cat .elinks/globhist 
+http://192.168.122.134/user.php?id=0    http://192.168.122.134/user.php?id=0    1699908688
+404 Not Found   http://192.168.122.134/upload_file.php  1699908930
+Image upload    http://192.168.122.134/upload/index.php 1699909026
+404 Not Found   http://192.168.122.134/upload/upload_file.txt   1699909076
+http://192.168.122.134/upload/upload_file.php   http://192.168.122.134/upload/upload_file.php   1699909107
+Main company management page    http://192.168.122.134/ 1699909175
+Admin page      http://192.168.122.134/admin/index.html 1699909203
+Secret company stuff    http://192.168.122.134/secret/  1699909367
+Admin page      http://192.168.122.134/admin/   1699909372
+ftp://192.168.122.164/  ftp://192.168.122.164/  1699971403
+[jimmy@localhost ~]$ curl http://192.168.122.134/secret/
+
