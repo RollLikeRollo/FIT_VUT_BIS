@@ -1,0 +1,29 @@
+na merlina
+z marlina na bis server pres 
+ssh student@bis.fit.vutbr.cz -i .ssh/bis_key -p 65132
+
+jimmy
+Host S3
+        HostName 192.168.122.60
+        User jimmy
+        IdentityFile ~/.ssh/id_ecdsa
+
+        /log/old_traffic.pcapng
+
+
+192.168.122.60
+    jimmy,
+    tajemstvi v trash
+    heslo na boba v pcap
+    nmap
+    ma sftp
+
+
+
+192.168.122.134
+    port 80
+
+
+
+192.168.122.216
+    ssh otevreno, heslo od Boba nefunguje
