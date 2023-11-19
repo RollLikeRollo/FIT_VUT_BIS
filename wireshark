@@ -5,5 +5,4 @@ password = SuperMegaHeslo123NikdoHoNezjisti
 
 
 
-curl -F "@image.jpeg;type=image/jpeg" http://192.168.122.134/upload/upload_file.php
 

@@ -1,0 +1,50 @@
+[jimmy@localhost ~]$ cat .elinks/globhist 
+404 Not Found   http://192.168.122.134/upload_file.php  1699908930
+404 Not Found   http://192.168.122.134/upload/upload_file.txt   1699909076
+Main company management page    http://192.168.122.134:80/      1700065100
+404 Not Found   http://192.168.122.134/admin/index.htm  1700066358
+Admin page      http://192.168.122.134/admin/index.html 1700068104
+http://192.168.122.134/user.php?id=1    http://192.168.122.134/user.php?id=1    1700069286
+Image upload    http://192.168.122.134/upload/index.php 1700079094
+404 Not Found   http://192.168.122.134/user?id=1/       1700082733
+http://192.168.122.134/admin/login.php?login=Admin1=1   http://192.168.122.134/admin/login.php?login=Admin1=1   1700082743
+http://192.168.122.134:80/user.php?id=0 http://192.168.122.134:80/user.php?id=0 1700082768
+http://192.168.122.134/user.php?id=1/   http://192.168.122.134/user.php?id=1/   1700082825
+http://192.168.122.134/user.php http://192.168.122.134/user.php 1700082833
+http://192.168.122.134//user.php?id=0   http://192.168.122.134//user.php?id=0   1700083212
+Image upload    http://192.168.122.134//upload/index.php        1700083215
+Main company management page    http://192.168.122.134//        1700083251
+Index of /images        http://192.168.122.134/images/?C=M;O=A  1700087545
+http://192.168.122.134/icons/text.gif   http://192.168.122.134/icons/text.gif   1700087550
+http://192.168.122.134/icons/back.gif   http://192.168.122.134/icons/back.gif   1700087556
+Image upload    http://192.168.122.134:80/upload/index.php      1700167335
+Index of /images        http://192.168.122.134/images/?C=N;O=A  1700167395
+Index of /images        http://192.168.122.134/images/?C=D;O=A  1700167400
+404 Not Found   http://192.168.122.134/scripts/ 1700167443
+http://192.168.122.134/upload/upload_file.php   http://192.168.122.134/upload/upload_file.php   1700167456
+phpinfo()       http://192.168.122.134/images/image.php 1700167484
+Index of /images        http://192.168.122.134/images/?C=M;O=D  1700167588
+Index of /images        http://192.168.122.134/images/?C=M      1700167593
+Index of /images        http://192.168.122.134/images/  1700167616
+http://192.168.122.134/user.php?id=0    http://192.168.122.134/user.php?id=0    1700167625
+Secret company stuff    http://192.168.122.134/secret/  1700167634
+http://192.168.122.134/icons/script.png http://192.168.122.134/icons/script.png 1700167682
+http://192.168.122.134/icons/script.gif http://192.168.122.134/icons/script.gif 1700167703
+http://192.168.122.134/icons/poweredby.png      http://192.168.122.134/icons/poweredby.png      1700167712
+http://192.168.122.134/icons/image1.gif http://192.168.122.134/icons/image1.gif 1700167728
+http://192.168.122.134/icons/image2.gif http://192.168.122.134/icons/image2.gif 1700167734
+http://192.168.122.134/icons/apache_pb.png      http://192.168.122.134/icons/apache_pb.png      1700167744
+http://192.168.122.134/icons/alert.black.gif    http://192.168.122.134/icons/alert.black.gif    1700167753
+http://192.168.122.134/icons/compressed.png     http://192.168.122.134/icons/compressed.png     1700167766
+http://192.168.122.134/icons/apache_pb2.png     http://192.168.122.134/icons/apache_pb2.png     1700167774
+Index of /icons http://192.168.122.134/icons/   1700167777
+Main company management page    http://192.168.122.134/ 1700167781
+404 Not Found   http://192.168.122.134/files    1700167796
+404 Not Found   http://192.168.122.134/xx       1700167801
+ftp://192.168.122.164/ftp/secret.txt    ftp://192.168.122.164/ftp/secret.txt    1700167828
+ftp://192.168.122.164/ftp/duck-3.jpeg   ftp://192.168.122.164/ftp/duck-3.jpeg   1700167832
+ftp://192.168.122.164/ftp/duck-2.jpg    ftp://192.168.122.164/ftp/duck-2.jpg    1700167845
+ftp://192.168.122.164/ftp/duck-1.jpg    ftp://192.168.122.164/ftp/duck-1.jpg    1700167847
+ftp://192.168.122.164/ftp/      ftp://192.168.122.164/ftp/      1700167859
+ftp://192.168.122.164/  ftp://192.168.122.164/  1700167861
+Admin page      http://192.168.122.134/admin/   1700167891
