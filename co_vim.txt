@@ -10,6 +10,9 @@ Host S3
 
         /log/old_traffic.pcapng
 
+        john seanah ma rad psy
+        bob wazi ma rad kachny
+
 
 192.168.122.60
     jimmy,
@@ -44,6 +47,16 @@ Host S3
 
 192.168.122.216
     ssh otevreno, heslo od Boba nefunguje
+    MegaSuperHeslo123NikdoHoNezjisti
+    nc -vn 192.168.122.216 22
+    nmap -p22 192.168.122.216  --script ssh2-enum-algos
+    nmap -p22 192.168.122.216 --script ssh-hostkey --script-args ssh_hostkey=full
+    nmap -p22 192.168.122.216  --script ssh-auth-methods --script-args="ssh.user=root"
+
+    ssh bob@192.168.122.216
+    cd project
+    strings company_software
+    Tajemstvi_C_9d71df026b40377717ccbeeb952b7b3c4ad84eab391a11eeb5eddf80eb8af222
 
 ------------------------------------------------------
 git://192.168.122.249
@@ -54,6 +67,9 @@ Git show main.c vypise metadata a zmeny. Ve zmenach je tajemstvi F
 
 stare heslo bob iloveyou
 misbebeslosamocontodomicorazon
+
+bobuv pin 4242
+bobus pes misbebeslosamocontodomicorazon
 
 
 -----------------------------------------------
@@ -102,3 +118,5 @@ nmap --script ftp-* -p 21 192.168.122.164
 nc -vn 192.168.122.164 21
 
 nmap -sV -p21 --script=banner 192.168.122.164
+
+some software thinfs to Megahard

